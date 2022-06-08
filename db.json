@@ -1,0 +1,168 @@
+{
+    "cakes": [
+      
+        {
+            "id": 101001,
+            "name": "Naked cake Naranja",
+            "description": "Torta ",
+            "photo": "101001.jpg",
+            "price": 50.000,
+            "quantity": 100
+        }
+        ,
+        {
+            "id": 101002,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101002.png",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101003,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101003.png",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101004,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101004.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101005,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101005.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101006,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101006.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101007,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101007.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101008.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101009,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101009.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101010,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101010.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101011,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101011.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101012,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101012.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101013,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101013.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101014,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101014.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101015,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101015.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101016,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101016.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101017,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101017.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 101018,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "101018.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+  
+      
+    ]
+  }
