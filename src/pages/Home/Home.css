@@ -117,14 +117,14 @@
 
 
 
-.container-logo{
+.container-logo-home{
   flex-basis: 35%;
   margin: 6% 2%;
   align-self: flex-start;
   
 }
 
-.container-logo img{
+.container-logo-home img{
   width: 100%;
   border-radius: 50%;
   box-shadow: 2px 2px 15px rgb(0, 0, 0);
@@ -160,7 +160,7 @@
   }
 
  
-  .container-logo{
+  .container-logo-home{
       margin: 5% 0 ;
       width: 80%;
       align-self: flex-end;
@@ -168,7 +168,7 @@
       justify-content: center;
   }
 
-  .container-logo img{
+  .container-logo-home img{
       width: 50%;
   }
 }

@@ -8,7 +8,7 @@ function Home() {
                 <div className='container-btn-home'>
                     <Link to='/main'><button className='btn-home hvr-push hvr-ripple-out'> TIENDA ONLINE</button></Link>
                 </div>
-                <div className='container-logo'>
+                <div className='container-logo-home'>
                     <img src={logo} />
                 </div>
             </div>

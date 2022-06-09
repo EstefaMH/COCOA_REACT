@@ -8,7 +8,7 @@ import { FaBars, FaShoppingCart } from 'react-icons/fa';
 function Header() {
     return (
         <div className="container-nav">
-            <div className="container-logo">
+            <div className="container-logo-nav">
                 <Link to='/main' className="logo"><img className="AA" src={Logo} /></Link>
             </div>
             {/*} <a href="#" className="logo"></a> 

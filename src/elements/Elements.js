@@ -7,15 +7,9 @@ const Banner  = Styled.div`
     width : 100%;
     display: flex;
 `;
-  
+ 
 
 
 
-const Subtitle = Styled.h2`
 
-    color : green;
-
-
-`;
-
-export {Banner,Subtitle}
+export {Banner}

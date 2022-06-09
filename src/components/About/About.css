@@ -1,0 +1,44 @@
+#container_main_home{
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.paragraph-home{
+    color: var(--white-color);
+    padding: 3% 8% 10% 8%;
+    font-weight: 10;
+}
+
+.container_contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 3% 5% 5% 5%;
+    border: 0.1px solid var(--golden-color);
+    margin-bottom: 5%;
+}
+
+
+.title_contact{
+    font-family: 'EB Garamond';
+    font-weight: 100;
+    padding: 10%;
+}
+
+.text_contact-white{
+    color: var(--white-color);
+    font-weight: lighter;
+    font-size: 15px;
+    font-family: initial;
+}
+
+.text_contact-yellow{
+    color: var(--golden-color);
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 100;
+}

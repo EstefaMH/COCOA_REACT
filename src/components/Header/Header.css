@@ -18,13 +18,17 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: flex-end;
-    background-color: #0000005d;
+    background-image: url(../../img/footer/background\ naav.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #ffffff13;
     /* padding-left: 20%; */
-     background-image: url(../../img/footer/background\ naav.png);
+     
      background-size: cover;
      background-repeat: no-repeat;
     padding-right: 10%;
     font-family: 'EB Garamond', serif;
+    font-weight: 500;
     font-size: 1.5rem; 
     height: 30%;
     
@@ -85,7 +89,7 @@ ul .list li:hover ul .list-subitem {
 }
 
 
-.container-logo{
+.container-logo-nav{
      min-width: 150px;
      min-height: 150px;
      height: 100%;
