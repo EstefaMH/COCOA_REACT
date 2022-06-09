@@ -3,10 +3,10 @@ import axios from 'axios';
 import { useState, useEffect } from 'react'
 
 
-function Cards() {
 
-    /*1. Definir url del api a la que me voy a conectar*/
-    const url = "http://localhost:4000/cakes";
+function Cards({url}) {
+
+    
 
     /*2. Generar la fx asincrona para conctar a la API */
     const getData = async () => {
@@ -28,6 +28,11 @@ function Cards() {
         })
     }, [])
     console.log(products);
+
+   
+       
+
+
     
 
     return (
@@ -36,8 +41,7 @@ function Cards() {
                 {products.map((product, id) => (
                     <article class="product" key={id}>
                         <p class="product-info" >{product.name}</p>
-                        <p class="product-info"> {product.description} </p>
-                        <img class="product-img" src={require(`../../img/cakeshop/cakes/${product.photo}`)} />
+                        <img class="product-img" src={require(`../../img/${product.photo}`)} />
                         <button class="btn-view">Ver mas</button>
                     </article>
                 ))}

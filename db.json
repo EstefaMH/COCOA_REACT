@@ -1,168 +1,432 @@
+
 {
-    "cakes": [
+    
+"cakes": [
+      
+    {
+        "id": 101001,
+        "name": "Naked cake Naranja",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101001.jpg",
+        "price": 50.000,
+        "quantity": 100
+    }
+    ,
+    {
+        "id": 101002,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101002.png",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101003,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101003.png",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101004,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101004.jpg",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101005,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101005.jpg",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101006,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101006.jpg",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101007,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101007.jpg",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101008,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101008.jpg",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101009,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101009.jpg",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101010,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101010.jpg",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101011,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101011.jpg",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101012,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101012.jpg",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101013,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101013.jpg",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101014,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101014.jpg",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101015,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101015.jpg",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101016,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101016.jpg",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101017,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101017.jpg",
+        "price": 50.000,
+        "quantity": 50
+    }
+    ,
+    {
+        "id": 101018,
+        "name": "Torta vainilla",
+        "description": "Torta ",
+        "photo": "cakeshop/cakes/101018.jpg",
+        "price": 50.000,
+        "quantity": 50
+    }
+
+  
+]
+
+    ,
+
+    "desserts": [
       
         {
-            "id": 101001,
-            "name": "Naked cake Naranja",
-            "description": "Torta ",
-            "photo": "101001.jpg",
-            "price": 50.000,
+            "id": 102001,
+            "name": "Copa frutos del bosque",
+            "description": "Copa de dulce de frutos del bosque con yogurth griego sabor a vainilla ",
+            "photo": "cakeshop/desserts/102001.svg",
+            "price": 12.000 ,
             "quantity": 100
         }
         ,
         {
-            "id": 101002,
-            "name": "Torta vainilla",
-            "description": "Torta ",
-            "photo": "101002.png",
-            "price": 50.000,
+            "id": 102002,
+            "name": "Donuts cubiertas de chocolate",
+            "description": "clásicas, suaves y esponjositas, donas recubiertas de chocolate y chispas de colores ",
+            "photo": "cakeshop/desserts/102002.jpg",
+            "price": 2.500,
             "quantity": 50
         }
         ,
         {
-            "id": 101003,
-            "name": "Torta vainilla",
-            "description": "Torta ",
-            "photo": "101003.png",
-            "price": 50.000,
+            "id": 102003,
+            "name": "Pie de Manzana",
+            "description": "clasico postre al mejor estilo italiano , bizcocho bañado en cafe con queso mascarpone y cacao espolvoreado ",
+            "photo": "cakeshop/desserts/102003.jpg",
+            "price": 8.000,
             "quantity": 50
         }
-        ,
+        ,  
         {
-            "id": 101004,
-            "name": "Torta vainilla",
-            "description": "Torta ",
-            "photo": "101004.jpg",
-            "price": 50.000,
+            "id": 102004,
+            "name": "Tartaletas de frutas",
+            "description": "Pastelillo con base de hojaldre relleno de frutas y crema pastelera   ",
+            "photo": "cakeshop/desserts/102004.jpg",
+            "price": 15.000,
             "quantity": 50
         }
-        ,
+        ,  
         {
-            "id": 101005,
-            "name": "Torta vainilla",
-            "description": "Torta ",
-            "photo": "101005.jpg",
-            "price": 50.000,
+            "id": 102005,
+            "name": "Créme brûlée",
+            "description": "Especialidad de la repostería francesa crema aromatizada con vainilla y canela, en la superficie contiene una fina capa de azucar caramelizada crocante ",
+            "photo": "cakeshop/desserts/102005.jpg",
+            "price": 18.000,
             "quantity": 50
         }
-        ,
+        ,  
         {
-            "id": 101006,
-            "name": "Torta vainilla",
-            "description": "Torta ",
-            "photo": "101006.jpg",
-            "price": 50.000,
+            "id": 102006,
+            "name": "Pie de Fresas",
+            "description": "Torta de hojaldre rellena de ganache de frutos rojos y frutillas frescas ",
+            "photo": "cakeshop/desserts/102006.jpg",
+            "price": 60.000,
             "quantity": 50
         }
-        ,
+        ,  
         {
-            "id": 101007,
-            "name": "Torta vainilla",
-            "description": "Torta ",
-            "photo": "101007.jpg",
+            "id": 102007,
+            "name": "Torta de zanahoria",
+            "description": "Opcion saludable para personas que no  ",
+            "photo": "cakeshop/desserts/102007.jpg",
             "price": 50.000,
             "quantity": 50
         }
-        ,
+        ,  
         {
-            "id": 101008,
+            "id": 102008,
             "name": "Torta vainilla",
             "description": "Torta ",
-            "photo": "101008.jpg",
+            "photo": "cakeshop/desserts/102008.jpg",
             "price": 50.000,
             "quantity": 50
         }
-        ,
+        ,  
         {
-            "id": 101009,
+            "id": 102008,
             "name": "Torta vainilla",
             "description": "Torta ",
-            "photo": "101009.jpg",
+            "photo": "cakeshop/desserts/102009.jpg",
             "price": 50.000,
             "quantity": 50
         }
-        ,
+        ,  
         {
-            "id": 101010,
+            "id": 102008,
             "name": "Torta vainilla",
             "description": "Torta ",
-            "photo": "101010.jpg",
+            "photo": "cakeshop/desserts/102010.jpg",
             "price": 50.000,
             "quantity": 50
         }
-        ,
+        ,  
         {
-            "id": 101011,
+            "id": 102008,
             "name": "Torta vainilla",
             "description": "Torta ",
-            "photo": "101011.jpg",
+            "photo": "cakeshop/desserts/102011.jpg",
             "price": 50.000,
             "quantity": 50
         }
-        ,
+        ,  
         {
-            "id": 101012,
+            "id": 102008,
             "name": "Torta vainilla",
             "description": "Torta ",
-            "photo": "101012.jpg",
+            "photo": "cakeshop/desserts/102012.jpg",
             "price": 50.000,
             "quantity": 50
         }
-        ,
+        ,  
         {
-            "id": 101013,
+            "id": 102008,
             "name": "Torta vainilla",
             "description": "Torta ",
-            "photo": "101013.jpg",
+            "photo": "cakeshop/desserts/102013.jpg",
             "price": 50.000,
             "quantity": 50
         }
-        ,
+        ,  
         {
-            "id": 101014,
+            "id": 102008,
             "name": "Torta vainilla",
             "description": "Torta ",
-            "photo": "101014.jpg",
+            "photo": "cakeshop/desserts/102014.jpg",
             "price": 50.000,
             "quantity": 50
         }
-        ,
+        ,  
         {
-            "id": 101015,
+            "id": 102008,
             "name": "Torta vainilla",
             "description": "Torta ",
-            "photo": "101015.jpg",
+            "photo": "cakeshop/desserts/102015.jpg",
             "price": 50.000,
             "quantity": 50
         }
-        ,
+        ,  
         {
-            "id": 101016,
+            "id": 102008,
             "name": "Torta vainilla",
             "description": "Torta ",
-            "photo": "101016.jpg",
+            "photo": "cakeshop/desserts/102016.jpg",
             "price": 50.000,
             "quantity": 50
         }
-        ,
+        ,  
         {
-            "id": 101017,
+            "id": 102008,
             "name": "Torta vainilla",
             "description": "Torta ",
-            "photo": "101017.jpg",
+            "photo": "cakeshop/desserts/102017.jpg",
             "price": 50.000,
             "quantity": 50
         }
-        ,
+        ,  
         {
-            "id": 101018,
-            "name": "Torta vainilla",
+            "id": 102008,
+            "name": "Torta de Mandarina",
             "description": "Torta ",
-            "photo": "101018.jpg",
+            "photo": "cakeshop/desserts/102018.jpg",
             "price": 50.000,
             "quantity": 50
         }
-  
+        
+    ]
+
+    , "biscuits": [
       
+        {
+            "id": 103001,
+            "name": "Copa frutos del bosque",
+            "description": "Copa de dulce de frutos del bosque con yogurth griego sabor a vainilla ",
+            "photo": "cakeshop/biscuits/103001.jpg",
+            "price": 12.000 ,
+            "quantity": 100
+        }
+        ,
+        {
+            "id": 102002,
+            "name": "Donuts cubiertas de chocolate",
+            "description": "clásicas, suaves y esponjositas, donas recubiertas de chocolate y chispas de colores ",
+            "photo": "cakeshop/biscuits/103002.jpg",
+            "price": 2.500,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 102003,
+            "name": "Pie de Manzana",
+            "description": "clasico postre al mejor estilo italiano , bizcocho bañado en cafe con queso mascarpone y cacao espolvoreado ",
+            "photo": "cakeshop/biscuits/103003.jpg",
+            "price": 8.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102004,
+            "name": "Tartaletas de frutas",
+            "description": "Pastelillo con base de hojaldre relleno de frutas y crema pastelera   ",
+            "photo": "cakeshop/biscuits/103004.jpg",
+            "price": 15.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102005,
+            "name": "Créme brûlée",
+            "description": "Especialidad de la repostería francesa crema aromatizada con vainilla y canela, en la superficie contiene una fina capa de azucar caramelizada crocante ",
+            "photo": "cakeshop/biscuits/103005.jpg",
+            "price": 18.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102006,
+            "name": "Pie de Fresas",
+            "description": "Torta de hojaldre rellena de ganache de frutos rojos y frutillas frescas ",
+            "photo": "cakeshop/biscuits/103006.jpg",
+            "price": 60.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102007,
+            "name": "Torta de zanahoria",
+            "description": "Opcion saludable para personas que no  ",
+            "photo": "cakeshop/biscuits/103007.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "cakeshop/biscuits/103008.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "cakeshop/biscuits/103009.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "cakeshop/biscuits/103010.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+       
     ]
   }

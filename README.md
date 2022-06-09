@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+# Panadería y Pastelería - COCOA
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Un negocio con un aplicativo o una página web eleva su prestigio, a la vez que permite que los clientes aumenten su nivel de confianza en el producto o servicio que ofrece. Un sitio web ayuda a incrementar las ventas, la productividad y el valor en el mercado. Pensando en ésta necesidad, hemos creado una interfaz interactiva que contiene visualizaciones de sus productos y todo aquél servicio que ofrece, recibe los input de los pedidos del usuario y se los entrega al dueño del comercio como un pedido digital.
 
-## Available Scripts
+## Comenzando 🚀
 
-In the project directory, you can run:
+### Pre-requisitos 📋
 
-### `npm start`
+_Vamos a necesitar las siguientes cosas para instalar el software_
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```
+Una terminal
+Un editor de código
+Un navegador compatible
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+_Abrir una terminal y clonar el repositorio con el siguiente comando:_
+```
+git clone https://github.com/Fernaandaa/COCOOA.git
+```
 
-### `npm test`
+### Instalación 🔧
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+_Ubicarse en el repositorio clonado y ejecutar el siguiente comando:_
 
-### `npm run build`
+```
+npm -i o npm install
+``` 
+_Al ejecutar éste comando se instalan las dependencias_
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+_En la carpeta principal ejecutas el siguiente comando:_
+```
+npm start
+```
+_Este comando levanta el servidor y así verificas que funciona_
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Despliegue 📦
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+_Link despliegue_
 
-### `npm run eject`
+## Construido con 🛠️
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+_Las herramientas que se usaron para crear éste proyecto, son:_
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* [Visual](https://code.visualstudio.com/) - Editor de código
+* [ Google Chrome](https://www.google.com/webhp?hl=es-419&sa=X&sqi=2&pjf=1&ved=0ahUKEwitgtGcv4_0AhViCrkGHcCeB14QPAgI) - Navegador para hacer pruebas y correr el servidor localmente
+* [HTML5](https://html5.org/) - Lenguaje de hipertexto
+* [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) -  Lenguaje de hojas de estilo en cascada para estilizar elementos 
+* [Reactjs](https://reactjs.org/) - Biblioteca de Javascript para crear interfaces
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Autores ✒️
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Este proyecto fue realizado en colaboración de :
+* **Fernánda Sánchez, github: https://github.com/Fernaandaa**
+* **Estefania Moncaleano, github: https://github.com/EstefaMH**
 
-## Learn More
+## Licencia 📄
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+_Derechos de autor (c) 2021_
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+_Por la presente se otorga permiso, sin cargo, a cualquier persona que obtenga una copia.
+de este software y los archivos de documentación asociados (el "Software"), para tratar
+en el Software sin restricción, incluidos, entre otros, los derechos
+para usar, copiar, modificar, fusionar, publicar, distribuir, y para permitir a las personas a las que el Software es
+amueblado para ello, sujeto a las siguientes condiciones:_
 
-### Code Splitting
+_El aviso de copyright anterior y este aviso de permiso se incluirán en todos
+copias o partes sustanciales del Software._
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+_EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITAS, INCLUIDAS PERO NO LIMITADAS A LAS GARANTÍAS DE COMERCIABILIDAD,
+APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO
+LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMO, DAÑOS U OTROS
+RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO, QUE SURJA DE,
+FUERA O EN RELACIÓN CON EL SOFTWARE O EL USO U OTROS NEGOCIOS EN EL
+SOFTWARE._
 
-### Analyzing the Bundle Size
+## Expresiones de Gratitud 🎁
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* Comenta a otros sobre este proyecto 📢
+* Invita una Jugo o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* etc.
