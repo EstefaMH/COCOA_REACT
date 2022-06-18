@@ -112,8 +112,10 @@ function Cards({ url, urlId }) {
                 <section id="products">
                     {products.map((product, id) => (
                         <article class="product" key={id}>
-                            <p class="product-info" >{product.name}</p>
-                            <img class="product-img" src={require(`../../img/${product.photo}`)} />
+                            <div className='card'>
+                                <p class="product-info" >{product.name}</p>
+                                <img class="product-img" src={require(`../../img/${product.photo}`)} />
+                            </div>
                             <Link class="container-btn-card" to={urlId + `${id}`} ><button className="btn-view" onClick={handleOpen} >Ver mas</button></Link>
 
                         </article>
