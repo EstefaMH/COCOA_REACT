@@ -6,6 +6,7 @@ import Footer from '../../components/Footer/Footer'
 import About from '../../components/About/About';
 import Banner from '../../img/home/BANNER-MAIN.jpg'
 import Expanding from '../../components/Expanding/Expanding'
+import { Outlet } from 'react-router-dom';
 
 
 function Main(){
@@ -18,6 +19,7 @@ function Main(){
         <Subtitle  text = "NOSOTROS"/>
         <About />
         <Footer />
+        <Outlet></Outlet>
         </div>
     );
 

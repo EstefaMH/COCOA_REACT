@@ -1,0 +1,20 @@
+.container-modal{
+    background-image:  url(../../img/MODAL-BACKGROUND.png);
+background-size: cover
+
+}
+
+.header-modal{
+    text-align: center;
+    color: var(--golden-color);
+}
+
+.main-con-modal{
+    width: 100vw;
+}
+
+.price{
+    color: var(--golden-color);
+    font-weight: 300;
+    font-size: 1.5rem;
+}

@@ -6,8 +6,11 @@
     align-items: center;
     position: relative;
     min-height: 170px;
+    margin-bottom: 2%;
+    margin-top: 1%;
     
 }
+
 .navbar {
     z-index: 2;
     width: 100%;
@@ -19,11 +22,11 @@
     background-size: cover;
     background-image: url(../../img/background\ nav.png);
     background-repeat: no-repeat;
-    /*padding-left: 20%; */
     padding-right: 10%;
     font-family: 'EB Garamond', serif;
     font-size: 1.1rem;
     height: 30%;
+    
     
 }
 
@@ -42,6 +45,9 @@
 .navbar a{
     text-decoration: none;
     color: inherit;
+    font-weight: 300;
+    letter-spacing: 1px;
+    font-size: 1.2rem;
 }
 
 ul .list-subitem {
@@ -58,11 +64,13 @@ ul .list-subitem {
 
 ul .list-subitem {
     list-style: none;
-    padding-top: 2%;
+    line-height: 2;
+    padding: 2%;
     position: absolute;
     background-color: #1c0802;
-    width: 100%;
+    width: max-content;
     display: none;
+    text-align: center;
 }
 
 ul .list li:hover ul .list-subitem {
@@ -124,8 +132,9 @@ ul .list li:hover ul .list-subitem {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 65px;
+    gap: 95px;
 	transition: .5s;
+
 }
 
 li {
@@ -164,6 +173,8 @@ label{
     width: 40%;
     margin-left: 32%;
 }
+
+
 
 @media screen and (max-width: 700px) {
 
@@ -236,7 +247,6 @@ label{
 
 .as{
     position: absolute;
-    background-color: rgba(255, 170, 0, 0.589);
     
 }
 

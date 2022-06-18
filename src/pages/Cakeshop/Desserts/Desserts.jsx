@@ -12,7 +12,7 @@ function Desserts(){
             <Header />
             <Bannerfx background={dessertsBanner}></Bannerfx>
             <Subtitle text="POSTRES"></Subtitle>
-            <Cards url='http://localhost:4000/desserts' />
+            <Cards url='http://localhost:4000/desserts' urlId='/desserts/' />
             <Footer />
         </div>
     );

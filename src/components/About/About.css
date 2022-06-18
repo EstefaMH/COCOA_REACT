@@ -42,3 +42,11 @@
     font-size: 15px;
     font-weight: 100;
 }
+
+
+@media screen and (min-width : 700px) {
+   .paragraph-home{
+    line-height: 2;
+    font-size: 1.5rem;
+   } 
+}

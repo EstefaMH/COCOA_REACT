@@ -49,17 +49,25 @@
     margin: 5%;
 }
 
+.container-btn-card{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
 .btn-view{
     border: none;
     border: 1px solid var(--golden-color);
     color: var(--golden-color);
     background-color: transparent;
     border-radius: 5px;
-    width: 50%;
+    width: 70%;
     font-family: 'EB Garamond';
     margin: 5% 0 7% 0;
     padding: 3%;
     cursor: pointer;
+    display: inline-block;
 }
 
 .btn-view:hover{
